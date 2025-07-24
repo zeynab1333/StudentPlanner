@@ -15,7 +15,7 @@ Student Planner is a full-stack MERN application designed to help students organ
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/student-planner.git
+   git clone https://github.com/zeynab1333/StudentPlanner.git
    cd student-planner
    ```
 
@@ -50,7 +50,7 @@ Student Planner is a full-stack MERN application designed to help students organ
 
 ## Deployed Application
 
-[Live Demo](https://your-deployed-app-link.com)
+[Live Demo](https://student-planner-mu.vercel.app/)
 
 ## Video Demonstration
 
@@ -72,4 +72,4 @@ Student Planner is a full-stack MERN application designed to help students organ
 
 ---
 
-For more details, see the [client/README.md](client/README.md).
+For more details, see the [/README.md](/README.md).
