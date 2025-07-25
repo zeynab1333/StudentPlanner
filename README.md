@@ -54,7 +54,7 @@ Student Planner is a full-stack MERN application designed to help students organ
 
 ## Video Demonstration
 
-[Watch the 5-10 minute demo](https://your-demo-video-link.com)
+[Watch the 5-10 minute demo](https://drive.google.com/file/d/1CXoXofISoHHvgg95N2fIPSjhbmkY4Q41/view?usp=drivesdk)
 
 ## Screenshots
 
